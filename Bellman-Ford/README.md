@@ -1,2 +1,2 @@
 # PacmanAI
-Third year mid-term project. A pacman game that plays by an AI. Winning rate is 76%.
+Third year mid-term project. Designed an AI that plays the pacman game. Winning rate is 76%.
