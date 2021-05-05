@@ -4,6 +4,7 @@ Multiple AI approaches to playing the Pacman game:
 ### 1. Bellman-Ford (Winning rate: 76%)
 
 To run the game on a small grid, run "python pacman.py -q -n 25 -p MDPAgent -l smallGrid"
+
 To run the game on a medium grid, run "python pacman.py -q -n 25 -p MDPAgent -l mediumClassic"
 
 
